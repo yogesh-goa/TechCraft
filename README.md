@@ -2,7 +2,7 @@
 
 # PS3: The Ultimate eSports & Gaming Community Hub
 
-## 1. Team Name - Problem Statement
+## 1. Team Name - TechCraft
 **Problem Statement:**
 The gaming community lacks a dedicated, all-in-one platform where gamers can connect, compete, and grow. While live streaming, social networking, and event participation exist on separate platforms, there isn't a unified space that integrates all these features. Gamers struggle to find competitive events, build communities, and interact in real-time, while event organizers face challenges in reaching the right audience and managing registrations. Your task is to build a comprehensive platform to bridge this gap.
 
